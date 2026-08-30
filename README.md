@@ -1,63 +1,36 @@
-<div align="center">
+# NaruBase™ — Installer Downloads
 
-<img src="logo.png" alt="NaruBase" width="96" height="96" />
+This repository hosts **installer downloads** for the NaruBase™ product
+suite. Each product has its own folder, its own version manifest, and its
+own tagged releases, so updates to one product never affect another.
 
-# NaruBase™ FlowReach
+| Product | Info | Latest release |
+|---|---|---|
+| **FlowReach** — local-business lead research | [flowreach/README.md](flowreach/README.md) | [Releases](https://github.com/louisbyun/narubase-install/releases?q=flowreach) |
 
-**Find local business leads. Export to CSV. All from your own machine.**
+More NaruBase™ products will be added here as they move to this
+distribution repo.
 
-</div>
+## Structure
 
----
+Each product's install materials live under `<product>/`:
 
-This repository hosts **installer downloads** for NaruBase™ FlowReach — a
-Windows desktop app for local-business lead research. Source code is
-private; see [Releases](../../releases) for the latest installer once
-published.
+```
+<product>/
+  README.md       product page (description, screenshots)
+  version.json     update-check manifest the app polls
+  logo.png
+  ...screenshots
+```
 
-## What it does
-
-- **Search local businesses** by industry/category and location — works
-  free out of the box via **OpenStreetMap**, no signup required.
-- **Bring your own key** for more coverage — connect **Google Places** or
-  **Foursquare** in Settings, each with its own free tier and clear setup
-  instructions built into the app.
-- **Location autocomplete** — type a city and pick from real matches, so a
-  typo never silently breaks a search.
-- **Search multiple categories at once** — useful when what you're actually
-  looking for (e.g. "small businesses that might need IT support") isn't a
-  single category but a mix of related ones.
-- **Review before you save** — check each result's website with one click,
-  then pick exactly which ones to keep.
-- **Export to CSV** whenever you want, and reset your saved list in one
-  click when you're starting a new batch.
-
-## Screenshots
-
-<p align="center">
-  <img src="FlowReach_Leads.png" alt="Leads search screen" width="49%" />
-  <img src="FlowReach_Settings.png" alt="Settings screen" width="49%" />
-</p>
-
-## What it deliberately doesn't do
-
-- **No scraping.** Every search goes straight to the provider's own official
-  API, using a key you control.
-- **No email harvesting.** None of the supported providers hand out business
-  email addresses (that data doesn't exist in their public listings) — use
-  the website link to find contact info yourself.
-- **No telemetry.** Leads and API keys stay on your machine; keys live in
-  your OS keychain, never in a plaintext file.
-
-## License
-
-One-time purchase, no subscription. A 7-day free trial starts on first
-launch — the full app, not a limited demo.
+Releases are tagged `<product>-vX.Y.Z` (e.g. `flowreach-v1.0.0`) so tags
+never collide across products.
 
 ## Source
 
-The application source is maintained in a private repository. Bug reports
-and questions: open an [issue](../../issues) here.
+Application source for each NaruBase™ product is maintained in its own
+private repository. Bug reports and questions: open an
+[issue](../../issues) here.
 
 ---
 
