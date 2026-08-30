@@ -1,0 +1,8 @@
+{
+  "latest": "1.0.0",
+  "released_at": "2026-08-30",
+  "channel": "stable",
+  "release_notes_url": "https://github.com/louisbyun/narubase-install/releases/tag/v1.0.0",
+  "download_page_url": "https://github.com/louisbyun/narubase-install/releases",
+  "min_supported": "1.0.0"
+}
