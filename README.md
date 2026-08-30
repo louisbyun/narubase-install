@@ -32,6 +32,13 @@ published.
 - **Export to CSV** whenever you want, and reset your saved list in one
   click when you're starting a new batch.
 
+## Screenshots
+
+<p align="center">
+  <img src="FlowReach_Leads.png" alt="Leads search screen" width="49%" />
+  <img src="FlowReach_Settings.png" alt="Settings screen" width="49%" />
+</p>
+
 ## What it deliberately doesn't do
 
 - **No scraping.** Every search goes straight to the provider's own official
