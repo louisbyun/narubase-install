@@ -1,10 +1,10 @@
 {
-  "latest": "1.0.0",
-  "released_at": "2026-08-30",
+  "latest": "1.1.0",
+  "released_at": "2026-08-31",
   "channel": "stable",
-  "release_notes_url": "https://github.com/louisbyun/narubase-install/releases/tag/flowreach-v1.0.0",
-  "download_page_url": "https://github.com/louisbyun/narubase-install/releases/tag/flowreach-v1.0.0",
-  "msi_url": "https://github.com/louisbyun/narubase-install/releases/download/flowreach-v1.0.0/NaruBase.FlowReach_1.0.0_x64_en-US.msi",
-  "sha256": "be61ce57bdc8e100d577bea031d0f979e4353aa38c497082f3034c7ed2496b8",
+  "release_notes_url": "https://github.com/louisbyun/narubase-install/releases/tag/flowreach-v1.1.0",
+  "download_page_url": "https://github.com/louisbyun/narubase-install/releases/tag/flowreach-v1.1.0",
+  "msi_url": "https://github.com/louisbyun/narubase-install/releases/download/flowreach-v1.1.0/NaruBase.FlowReach_1.1.0_x64_en-US.msi",
+  "sha256": "0c592400de759509b7590e61d798a831ea7a59ac1d68158adc2ea109d7c58a77",
   "min_supported": "1.0.0"
 }
