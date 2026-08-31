@@ -1,0 +1,10 @@
+{
+  "latest": "1.1.0",
+  "released_at": "2026-08-30",
+  "channel": "stable",
+  "release_notes_url": "https://github.com/louisbyun/narubase-install/releases/tag/probe-v1.1.0",
+  "download_page_url": "https://github.com/louisbyun/narubase-install/releases/tag/probe-v1.1.0",
+  "msi_url": "https://github.com/louisbyun/narubase-install/releases/download/probe-v1.1.0/NaruBase.Probe_1.1.0_x64_en-US.msi",
+  "sha256": "ff106ae5b2d50cf400ecd7893d06d4ff3952cff5aa224ec8bb4959b601e9487",
+  "min_supported": "1.0.0"
+}

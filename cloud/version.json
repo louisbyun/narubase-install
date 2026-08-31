@@ -1,0 +1,10 @@
+{
+  "latest": "1.0.0",
+  "released_at": "2026-08-30",
+  "channel": "stable",
+  "release_notes_url": "https://github.com/louisbyun/narubase-install/releases/tag/cloud-v1.0.0",
+  "download_page_url": "https://github.com/louisbyun/narubase-install/releases/tag/cloud-v1.0.0",
+  "msi_url": "https://github.com/louisbyun/narubase-install/releases/download/cloud-v1.0.0/NaruBase.Cloud_1.0.0_x64_en-US.msi",
+  "sha256": "78c361e8c697e9fd9d70b35d1e899e62f13e2ccf256dfd75ec045efc4e824ba",
+  "min_supported": "1.0.0"
+}

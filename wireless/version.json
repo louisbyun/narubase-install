@@ -1,0 +1,10 @@
+{
+  "latest": "1.2.0",
+  "released_at": "2026-08-30",
+  "channel": "stable",
+  "release_notes_url": "https://github.com/louisbyun/narubase-install/releases/tag/wireless-v1.2.0",
+  "download_page_url": "https://github.com/louisbyun/narubase-install/releases/tag/wireless-v1.2.0",
+  "msi_url": "https://github.com/louisbyun/narubase-install/releases/download/wireless-v1.2.0/NaruBase.Wireless_1.2.0_x64_en-US.msi",
+  "sha256": "6ca99a445750a318fdd6384aedb49eafedfc04a397484d3cad897de098a95af",
+  "min_supported": "1.0.0"
+}

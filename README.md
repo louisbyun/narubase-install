@@ -6,7 +6,10 @@ own tagged releases, so updates to one product never affect another.
 
 | Product | Info | Latest release |
 |---|---|---|
+| **Wireless** — local Wi-Fi/BLE security monitoring | [wireless/README.md](wireless/README.md) | [Releases](https://github.com/louisbyun/narubase-install/releases?q=wireless) |
+| **Probe** — local network/DNS/TLS diagnostics | [probe/README.md](probe/README.md) | [Releases](https://github.com/louisbyun/narubase-install/releases?q=probe) |
 | **FlowReach** — local-business lead research | [flowreach/README.md](flowreach/README.md) | [Releases](https://github.com/louisbyun/narubase-install/releases?q=flowreach) |
+| **Cloud** — SSH server management with AI assistance | [cloud/README.md](cloud/README.md) | [Releases](https://github.com/louisbyun/narubase-install/releases?q=cloud) |
 
 More NaruBase™ products will be added here as they move to this
 distribution repo.
