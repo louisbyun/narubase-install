@@ -10,6 +10,7 @@ own tagged releases, so updates to one product never affect another.
 | **Probe** — local network/DNS/TLS diagnostics | [probe/README.md](probe/README.md) | [Releases](https://github.com/louisbyun/narubase-install/releases?q=probe) |
 | **FlowReach** — local-business lead research | [flowreach/README.md](flowreach/README.md) | [Releases](https://github.com/louisbyun/narubase-install/releases?q=flowreach) |
 | **Cloud** — SSH server management with AI assistance | [cloud/README.md](cloud/README.md) | [Releases](https://github.com/louisbyun/narubase-install/releases?q=cloud) |
+| **MyGeneLog** — local genetic variant analysis (independent brand) | [mygenelog/README.md](mygenelog/README.md) | [Releases](https://github.com/louisbyun/narubase-install/releases?q=mygenelog) |
 
 More NaruBase™ products will be added here as they move to this
 distribution repo.
