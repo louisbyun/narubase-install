@@ -5,6 +5,6 @@
   "release_notes_url": "https://github.com/louisbyun/narubase-install/releases/tag/mygenelog-v1.1.0",
   "download_page_url": "https://github.com/louisbyun/narubase-install/releases/tag/mygenelog-v1.1.0",
   "msi_url": "https://github.com/louisbyun/narubase-install/releases/download/mygenelog-v1.1.0/MyGeneLog_1.1.0_x64_en-US.msi",
-  "sha256": "07378a41c59ebea0c756c4d8fc708cbcf435cbd2f689704d93adb4995acf022f",
+  "sha256": "bdb6f8111fcdd8a95fcad741a3996a9fcbba19b5ce51e6995ca9c6279bfce122",
   "min_supported": "1.0.0"
 }
