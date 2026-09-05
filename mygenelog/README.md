@@ -39,8 +39,7 @@ for the latest installer. Companion site: [mygenelog.com](https://www.mygenelog.
 
 ## License
 
-One-time purchase, no subscription. A 7-day free trial starts on first
-launch — the full app, not a limited demo.
+Free to use — full functionality, no account, no license key.
 
 ## Source
 
