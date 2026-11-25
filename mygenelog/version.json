@@ -1,10 +1,10 @@
 {
-  "latest": "2.0.0",
+  "latest": "2.1.0",
   "released_at": "2026-11-25",
   "channel": "stable",
-  "release_notes_url": "https://github.com/louisbyun/narubase-install/releases/tag/mygenelog-v2.0.0",
-  "download_page_url": "https://github.com/louisbyun/narubase-install/releases/tag/mygenelog-v2.0.0",
-  "msi_url": "https://github.com/louisbyun/narubase-install/releases/download/mygenelog-v2.0.0/MyGeneLog_2.0.0_x64_en-US.msi",
-  "sha256": "c81da3f4d850e13fa3ad198f5e2c5d3c60544637727f25ac749b1b334bbc0e83",
+  "release_notes_url": "https://github.com/louisbyun/narubase-install/releases/tag/mygenelog-v2.1.0",
+  "download_page_url": "https://github.com/louisbyun/narubase-install/releases/tag/mygenelog-v2.1.0",
+  "msi_url": "https://github.com/louisbyun/narubase-install/releases/download/mygenelog-v2.1.0/MyGeneLog_2.1.0_x64_en-US.msi",
+  "sha256": "3601c0f769955461bdaaf91074c93a509ff6183d935a26d03e1c7af2f776f2e6",
   "min_supported": "1.0.0"
 }
